@@ -2,8 +2,8 @@
 
 $config = [
     'host' => 'localhost',
-    'user' => 'enger',
-    'pass' => 'Dr@g0nfly',
-    'dbname' => 'fractal',
-    'port' => '3306'
+    'user' => 'root',
+    'pass' => 'pass',
+    'dbname' => 'database',
+    'port' => 'port'
 ];
